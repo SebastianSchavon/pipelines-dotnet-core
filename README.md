@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/sebastianschavon/sebastianschavon/_apis/build/status/SebastianSchavon.pipelines-dotnet-core?branchName=master&jobName=Job)](https://dev.azure.com/sebastianschavon/sebastianschavon/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/sebastianschavon/sebastianschavon/_apis/build/status/SebastianSchavon.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/sebastianschavon/sebastianschavon/_build/latest?definitionId=1&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
